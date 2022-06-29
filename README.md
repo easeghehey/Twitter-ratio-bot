@@ -8,7 +8,7 @@
 
 > Currently used by more than 68 people! 🤯
 
-![How To Use](/images/1541111232513589248.jpg)
+![How To Use](1541111232513589248.jpg)
 
 ## Where to find it? 
 
