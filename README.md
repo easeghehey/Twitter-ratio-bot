@@ -16,8 +16,5 @@
 > 3️⃣ To get your ratio report, mention me with "@_ratiobot ratio account status"
 
 ## Screenshots 📸
->![Profile picture](ref.png) ![How to use](1541111232513589248.png)
-
-## Where to find it? ⁉️
-
-> Go check it out on twitter. Here: [Ratio Bot](https://twitter.com/_ratiobot)
+>![How to use](1541111232513589248.png)
+>![Profile picture](ref.png) 
