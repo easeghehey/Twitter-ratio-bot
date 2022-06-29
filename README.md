@@ -1,4 +1,5 @@
 # Ratio Bot 🤖
+>![Profile picture](ref.png) 
 
 ## Introduction
 
@@ -17,4 +18,3 @@
 
 ## Screenshots 📸
 >![How to use](1541111232513589248.png)
->![Profile picture](ref.png) 
