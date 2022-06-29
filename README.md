@@ -20,5 +20,6 @@
 ## Screenshots 📸
 >![How to use](1541111232513589248.png)
 
-Hosted on a Raspberry Pi
-Worked on it with @pratuln and @knightingale242
+>Hosted on a Raspberry Pi
+
+>Worked on it with @pratuln and @knightingale242
