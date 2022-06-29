@@ -10,6 +10,7 @@
 > Currently used by more than 68 people with an average of 1000 engagements! 🤯
 
 > Here's how to use it:
+
 > 1️⃣ Follow [Ratio Bot](https://twitter.com/_ratiobot)
 
 > 2️⃣ Reply to the tweet with "@_ratiobot check ratio"
