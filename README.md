@@ -1,5 +1,5 @@
 # Ratio Bot 🤖
->![Profile picture](ref.png) 
+>![Profile picture](pics/readmepics/ref.png) 
 
 ## Introduction
 
@@ -18,7 +18,7 @@
 > 3️⃣ To get your ratio report, mention me with "@_ratiobot ratio account status"
 
 ## Screenshots 📸
->![How to use](1541111232513589248.png)
+>![How to use](pics/readmepics/1541111232513589248.png)
 
 >Hosted on a Raspberry Pi
 
